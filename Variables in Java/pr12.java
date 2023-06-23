@@ -1,7 +1,7 @@
 public class pr12 {
     public static void main(String[] args){
         if(true){
-            System.out.println("Hello Woeld!");
+            System.out.println("Hello World!");
         }
         if(false){
             System.out.println("Hii");
