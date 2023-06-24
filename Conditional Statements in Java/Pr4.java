@@ -14,6 +14,7 @@ public class Pr4 {
         if(c>max){
             max=c;
         }
+        System.out.println(max);
         */
         
        // System.out.println(max+" is the largest");

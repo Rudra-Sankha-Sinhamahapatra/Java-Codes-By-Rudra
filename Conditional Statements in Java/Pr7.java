@@ -7,7 +7,6 @@ public class Pr7 {
     int n=input.nextInt();
     int first=0;
     int second=1;
-    int fib;
     System.out.printf("The %dth fibonacci numbers are:",n);
     System.out.println(" ");
     System.out.println(first);
@@ -15,7 +14,7 @@ public class Pr7 {
     
     int i=3;
     while(i<=n){
-      fib=first+second;
+     int fib=first+second;
     first=second;
     second=fib;
     i++;
