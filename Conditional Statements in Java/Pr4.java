@@ -19,5 +19,6 @@ public class Pr4 {
        // System.out.println(max+" is the largest");
        int max=Math.max(c,Math.max(a,b));
       System.out.println(max);
+      input.close();
     }
 }

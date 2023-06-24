@@ -17,7 +17,8 @@ public class pr3_largest {
         else{
             System.out.println(c+" is the largest");
         }
-
+         input.close();
     }
+   
     
 }

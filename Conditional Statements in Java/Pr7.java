@@ -1,6 +1,6 @@
 //Fibonacci numbers program using while loop
 import java.util.Scanner;
-public class pr7 {
+public class Pr7 {
      public static void main(String[] args){
     Scanner input=new Scanner(System.in);
     System.out.println("Enter the nth term");
@@ -21,5 +21,6 @@ public class pr7 {
     i++;
 System.out.println(fib);
     }
+    input.close();
 }
 }

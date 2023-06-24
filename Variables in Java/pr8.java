@@ -6,6 +6,7 @@ public class pr8 {
     String a=input.nextLine();
     System.out.println("Name:"+a);
     System.out.printf("Your name is %s\n",a);
-    }
+    input.close();
+}
     
 }

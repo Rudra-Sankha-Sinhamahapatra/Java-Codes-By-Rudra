@@ -13,5 +13,6 @@ Scanner input=new Scanner(System.in);
  int a=256;
  byte b=(byte)(a); //0 to 256 find nearest value 128=-128 127=127 257=1 256=0
  System.out.println(b);
+ input.close();
    }
 }

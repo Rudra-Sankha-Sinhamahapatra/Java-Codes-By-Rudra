@@ -11,6 +11,8 @@ public class Pr5 {
     else if(ch>='A' && ch<='Z'){
         System.out.println("It is a Uppercase letter");
     }
+    input.close();
     }
+    
     
 }

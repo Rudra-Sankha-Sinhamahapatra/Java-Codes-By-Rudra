@@ -6,5 +6,6 @@ public class pr9 {
         float b=input.nextFloat();
         float sum=a+b;
         System.out.println(sum);
+        input.close();
     }
 }

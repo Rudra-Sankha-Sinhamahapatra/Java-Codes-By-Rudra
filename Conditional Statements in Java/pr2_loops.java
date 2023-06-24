@@ -7,8 +7,8 @@ public class pr2_loops {
         }
          */
         //Print numbers 1 to n
-       /*  Scanner input=new Scanner(System.in);
-        System.out.println("Enter the nth number");
+       Scanner input=new Scanner(System.in);
+       /*  System.out.println("Enter the nth number");
         int n=input.nextInt();
         for (int i = 1; i<=n; i++) {
        //System.out.println(i);
@@ -28,5 +28,8 @@ public class pr2_loops {
             System.out.println(i);
             i++;
         }while(i<11);
+        input.close();
     }
+    
+
 }

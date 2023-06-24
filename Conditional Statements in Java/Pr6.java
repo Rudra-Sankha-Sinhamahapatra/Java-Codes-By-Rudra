@@ -18,7 +18,7 @@ public class Pr6{
     second=fib;
     System.out.println(fib);
    }
-    
+    input.close();
       
     }
   
