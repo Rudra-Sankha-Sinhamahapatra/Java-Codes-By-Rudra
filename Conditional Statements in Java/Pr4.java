@@ -1,3 +1,4 @@
+
 import java.util.Scanner;
 public class Pr4 {
     public static void main(String[] args){

@@ -3,9 +3,6 @@ public class pr12 {
         if(true){
             System.out.println("Hello World!");
         }
-        if(false){
-            System.out.println("Hii");
-        }
         int a=10;
         if(a==10){
             System.out.println("Hello");

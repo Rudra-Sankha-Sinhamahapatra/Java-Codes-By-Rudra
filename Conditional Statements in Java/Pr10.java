@@ -1,9 +1,5 @@
+
 //Calculator program using if else
-/* +,-,*,/,% and X for exit
- * Make a menu driven program
- * on the infinite loop while(true)
- * char op=input.next().trim().charAt(0);
- */
 import java.util.Scanner;
 public class Pr10 {
     public static void main(String[] args) {

@@ -1,3 +1,4 @@
+
 //Switch Case Statements
 import java.util.Scanner;
 public class Pr1 {

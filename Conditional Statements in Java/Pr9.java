@@ -1,4 +1,4 @@
-//Reverse a Number
+
 public class Pr9 {
     public static void main(String[] args){
         int num=23597;
@@ -9,5 +9,5 @@ public class Pr9 {
           rev=(rev*10)+rem;
         }
         System.out.println("Reverse:"+rev);
-    }//ok
+    }
 }
