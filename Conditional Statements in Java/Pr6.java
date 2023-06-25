@@ -7,6 +7,7 @@ public class Pr6{
     int n=input.nextInt();
     int first=0;
     int second=1;
+    
     System.out.printf("The %dth fibonacci numbers are:",n);
     System.out.println(" ");
     System.out.println(first);
@@ -18,9 +19,6 @@ public class Pr6{
     second=fib;
     System.out.println(fib);
    }
-    input.close();
-      
+    input.close();    
     }
-  
-   
     }

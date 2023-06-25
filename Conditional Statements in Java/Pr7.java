@@ -12,7 +12,6 @@ public class Pr7 {
     System.out.println(" ");
     System.out.println(first);
     System.out.println(second);
-    
     int i=3;
     while(i<=n){ 
     fib=first+second;

@@ -1,6 +1,5 @@
 import java.util.Scanner;
 public class Pr4 {
-    
     public static void main(String[] args){
         Scanner input=new Scanner(System.in);
        System.out.println("Enter three integers");

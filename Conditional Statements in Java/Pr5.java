@@ -13,6 +13,4 @@ public class Pr5 {
     }
     input.close();
     }
-    
-    
 }
