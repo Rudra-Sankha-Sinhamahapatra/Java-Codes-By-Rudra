@@ -12,6 +12,7 @@ public class Pr6{
     System.out.println(first);
     System.out.println(second);
    for(int i=1;i<n-1;i++){
+   //condition
     int fib=first+second;
     first=second;
     second=fib;

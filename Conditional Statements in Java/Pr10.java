@@ -50,8 +50,7 @@ public class Pr10 {
             System.out.println("Exiting the program");
         break;
         }
-        
-    
+        //ook
      else{
             System.out.println("Invalid");
         }

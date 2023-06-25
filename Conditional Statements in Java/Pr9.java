@@ -9,6 +9,5 @@ public class Pr9 {
           rev=(rev*10)+rem;
         }
         System.out.println("Reverse:"+rev);
-    }
-    
+    }//ok
 }
