@@ -9,5 +9,10 @@ public  class Main{
        //or
        int[]roll1={23,15,3,56,789};
        System.out.println(Arrays.toString(roll1));
+       System.out.println(roll1[0]);
+
+      // String[] arr=new String[4];
+      String[]arr={"Rudra","Swagnik","Kunal"};
+      System.out.println(Arrays.toString(arr));
     }
 }
