@@ -1,4 +1,5 @@
 //https://leetcode.com/problems/find-all-duplicates-in-an-array/
+//Microsoft Question
 //medium leetcode 442 finding all duplicates
 import java.util.*;
 
