@@ -20,6 +20,7 @@ public class Comparison {
     String g=new String(" Kunal");
 
      System.out.println(f.equals(g));//false:because of extra space in g the values are now different
-   
+     
+     System.out.println(a.charAt(0));//R
     } 
 }
