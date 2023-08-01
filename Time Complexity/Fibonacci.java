@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//time complexity
 public class Fibonacci{
     public static void main(String[] args) {
         Scanner in=new Scanner(System.in);
