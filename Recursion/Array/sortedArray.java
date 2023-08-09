@@ -1,5 +1,5 @@
 // package Array;
-
+//checking if the array is sorted or not
 public class sortedArray {
     public static void main(String[] args) {
         int[] arr={1,2,3,9,5};
