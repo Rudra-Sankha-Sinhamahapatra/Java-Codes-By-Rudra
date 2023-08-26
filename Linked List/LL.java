@@ -17,6 +17,32 @@ public class LL {
     }
     size+=1;
     }
+    public void insertLast(int val){
+        if(tail==null){
+
+        }
+        Node node=new Node(val);
+        tail.next=node;
+        tail=node;
+        size++;
+    }
+    public void insert(int val,int index){
+        if(index==0){
+            insertFirst(val);
+            return;
+        }
+        if(index==size){
+            insertLast(val);
+            return;
+        }
+        Node temp=head;
+        for(int i=0;i<index;i++){
+            temp=temp.next;
+        }
+        Node node=new Node(val,temp.next);
+        temp.next=node;
+        size++;
+    }
     public void display(){
         Node temp = head;
         while(temp!=null){

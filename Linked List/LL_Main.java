@@ -5,7 +5,8 @@ public class LL_Main {
         list.insertFirst(2);
         list.insertFirst(8);
         list.insertFirst(5);
-
+        list.insertLast(99);
+        list.insert(100,3);
         list.display();
     }
 }
