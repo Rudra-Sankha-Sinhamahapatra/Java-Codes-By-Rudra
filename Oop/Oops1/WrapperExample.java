@@ -16,7 +16,7 @@ public class WrapperExample {
        //when a non primitive is final you cant reassign it
        //Rudra=new A("new object");
 
-        A obj;
+     A obj;
         //doesnt have much load on memory
 //        for(int i=0;i<10000;i++){
 //            obj=new A("random name");
