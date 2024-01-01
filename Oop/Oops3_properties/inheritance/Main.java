@@ -18,8 +18,8 @@ public class Main {
         BoxWeight box5=new BoxWeight(7.4,8.9,9.8,9);
         System.out.println(box5.l+" "+box5.h+" "+box5.w+" "+box5.weight);
 
-        Box box6=new BoxWeight(2,3,4,8);
-//      System.out.println(box6.weight);
+        // Box box6=new BoxWeight(2,3,4,8);
+    //  System.out.println(box6.weight);
 //      cant access weight variable because
 //      parent Box cant access his child BoxWeight variable weight
 
@@ -32,7 +32,7 @@ public class Main {
 
 //        BoxWeight box7=new Box(2,3,4);
 
-        BoxPrice box8=new BoxPrice(5,8,200);
+        // BoxPrice box8=new BoxPrice(5,8,200);
 
 
     }
